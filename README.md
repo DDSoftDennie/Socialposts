@@ -1,1 +1,1 @@
-# Socialposts
+# Social posts
